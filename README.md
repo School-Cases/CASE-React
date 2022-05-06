@@ -2,6 +2,9 @@
 (school case)
 
 ---
+Uppgift:
+* Make a cinema-booking-app that uses React.
+
 Krav:
 * Minst två routes
 * Varje UI enhet ska vara sin egen komponent
