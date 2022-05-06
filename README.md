@@ -1,4 +1,4 @@
-# case Cinema
+# case React
 (school case)
 
 ---
@@ -10,4 +10,4 @@ Krav:
 * En bokning ska hantera flera antal platser. Varje plats ska vara valbar.
 * Lediga platser i biografen ska presenteras visuellt och plats väljs genom att användaren klickar på en ruta/ikon.
 ---
-Note: My first React project
+Note: My first project using React.
